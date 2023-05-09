@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cory
-- 👀 I’m interested in software architecture and development using Domain Driven Design.
-- 🌱 I’m currently leading the development of an event driven microservice platform in the live event and ticketing domain.
-- 💞️ I’m looking to collaborate on real world DDD and event-driven Reactive Systems.
+- 👀 I’m interested in development and design of event driven and event sourced reactive systems using Domain Driven Design.
+- 🌱 I’m currently building a series of tutorial projects to educate others on core concepts of these disciplines.
+- 💞️ I’m looking to build a community and collaborate with others who share an interest in these topics.
 - 📫 You can contact me directly via the social media channels listed.
 
 <!---
